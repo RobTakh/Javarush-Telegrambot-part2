@@ -42,6 +42,6 @@ class CommandContainerTest {
         Command command = commandContainer.retrieveCommand(unknownCommand);
 
         // then
-        Assertions.assertNotEquals(UnknownCommand.class, command.getClass());
+        Assertions.assertEquals(UnknownCommand.class, command.getClass());
         }
 }
