@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="88379afd-f34f-4c21-b8eb-01278d863dc1" name="Javarush-Telegrambot-JRTB-2" url="jdbc:mysql://localhost/Javarush-Telegrambot-JRTB-2?useSSL=false&amp;allowMultiQueries=true&amp;serverTimezone=UTC" driverClass="com.mysql.cj.jdbc.Driver" />
+    </data-sources>
+  </component>
+</project>
